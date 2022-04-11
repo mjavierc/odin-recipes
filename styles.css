@@ -1,0 +1,25 @@
+h1 {
+    font-family: Monaco, monospace;
+    text-align: center;
+}
+
+h2 {
+    font-family: Helvetica, sans-serif;
+}
+
+p, li {
+    font-family: Garamond, serif;
+}
+
+img {
+    width: 300px;
+    height: auto;
+}
+
+.ingredients {
+    color: #6495ed;
+}
+
+.description {
+    font-size: 18px;
+}
